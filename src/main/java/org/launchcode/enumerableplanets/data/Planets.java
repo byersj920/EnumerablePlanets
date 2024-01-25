@@ -12,6 +12,9 @@ public enum Planets {
 
     private String name;
 
+
+
+    //----------Constructor, Getters and Setters----------//
     Planets(String name) {
         this.name = name;
     }
